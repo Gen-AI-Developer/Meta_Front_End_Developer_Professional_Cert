@@ -1,0 +1,18 @@
+img {
+
+    border: solid;
+    border-color: brown;
+    border-radius: 2%;
+    margin: .3em;
+    float: top;
+
+}
+
+img:hover {
+    border-color: blue;
+}
+
+.text-img {
+    padding: 1em;
+    margin: 4em;
+}
